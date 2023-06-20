@@ -1,6 +1,6 @@
 # My git-cheatsheet
 
-**git commit -m** - "kurze benennung". committen
+**git commit -m** - "kurze benennung" und committen
 
 **git add xyz.html** - stagen
 
