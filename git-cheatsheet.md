@@ -1,6 +1,7 @@
 # My git-cheatsheet
 
 **git commit -m** - "kurze benennung". committen
+
 **git add xyz.html** - stagen
 
 **touch .gitignore** - alles was darin steht wird von git ignoriert.
