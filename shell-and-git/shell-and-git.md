@@ -1,4 +1,4 @@
-# Helpful Comand Collection
+# Helpful Command Collection
 
 ### Important "branch" commands
 
