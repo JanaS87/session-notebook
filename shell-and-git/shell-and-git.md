@@ -12,7 +12,7 @@
 
 ### Some (maybe) usefull hints 💡
 
-- 'git pull' sollte immer auf dem main ausgeführt werden
+- mit 'git pull' werden **alle** Änderungen heruntergeladen, die in einem remote GitHub- Repository vorgenommen wurden
 
 - man kann keinen branch löschen in dem man sich gerade befindet
 
